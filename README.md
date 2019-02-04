@@ -1,3 +1,6 @@
+# mean-chat
+My first MEAN stack development - A chat application
+
 # MeanChat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
